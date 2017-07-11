@@ -10,6 +10,7 @@ function createExtendEditorConfig(options) {
             enabled: true,
             displayName: true
         },
+        poweredBy: false,
         allowRenaming: false,
         allowDeleting: false,
         allowCreating: false,
